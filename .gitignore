@@ -1,0 +1,14 @@
+# Project exclude paths
+/.bsp/
+/client/target/
+/client/target/scala-2.13/classes/
+/common/target/
+/common/target/scala-2.13/classes/
+/project/project/target/
+/project/target/
+/server/target/
+/server/target/scala-2.13/classes/
+/target/
+
+/common/common.iml
+/.idea/
